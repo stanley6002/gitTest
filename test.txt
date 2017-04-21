@@ -14,13 +14,10 @@ add from fixme branch
 add from master branch
 add from master branch 2
 add from master brance 3
-TTTTT
-RRRRR
-test vim 
-test vim stable verion with vim 
-
 add new staff in here
 add new 2
 
-don't want to remove this 
-HAHAHA
+
+
+git conflict test 
+
